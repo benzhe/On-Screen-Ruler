@@ -1,18 +1,18 @@
-Website:http://on-screen-ruler.blogspot.com
+Website: http://on-screen-ruler.blogspot.com
 
-History:
+##History:
 
 Version V1.00  -Born
 Version V1.02  -Fixed bugs in correction
 Version V1.03  -Add change background color
-Version V1.04  -You can move the mark by arrow key
+Version V1.04  -You can move the marks by arrow key
 
-Introduce:
+##Introduce:
 
 On Screen Ruler is a powerful and easy-to-use ruler work in PC. The ruler lets you easily measures objects in your screen or out of screen. This is especially useful when measuring graphics, web page browser sizes or whatever.It can display Pixels, Inches or Centimeters. It needs .net framework 2.0, if it comes error in running, please download framework from Microsoft.
 
 
-How To Use:
+##How To Use:
 
 Almost all of the features are set in the Right Click Menu. Here are some details.
 
@@ -39,7 +39,7 @@ Almost all of the features are set in the Right Click Menu. Here are some detail
 11. After version v1.04, you can move the mark by using arrow keys in keyboard. and Enter or Space can be used to mark.
 
 
-Advanced Using:
+##Advanced Using:
 
 1.Measure objects out of screen:
 
@@ -52,9 +52,5 @@ Sometimes you want to know the size of objects in document before they printed o
 
 3. Both setting above will be saved after first correction£¨so just click OK to pass when using again.
 
-4. The Chinese "–ﬁ∏ƒ”Ô—‘" in Right Click Menu means change the language to Chinese, maybe you do not need this feature :-)
 
-
-That's all I think you need to know about this on screen ruler. If you are confused by some feature, just feel free to send me feedback. My email is ben304zhe@gmail.com. And you can just leave a comment below.
-
-In the end, as you can see, this tool is totally free, and i am just a college student in china and receive nothing for making this tool. So if you like this tool, please support me by making a small donation. Thanks :D
+That's all you need to know about this on screen ruler. If you are confused by some feature, just feel free to send me feedback. My email is ben304zhe@gmail.com. And you can just leave a comment below.

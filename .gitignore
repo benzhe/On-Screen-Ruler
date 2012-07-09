@@ -1,6 +1,8 @@
 # Build and Object Folders
 bin/
 obj/
+publish/
+
 
 #User Specific Files
 *.user
